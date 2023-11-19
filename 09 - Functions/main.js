@@ -8,8 +8,8 @@ console.log(testExample("Gab"));
 
 /* Anonymous function */
 
-var testAnonymous = function(myNamename) {
-    var greeting = "Hi! my name is " + myNamename;
+var testAnonymous = function(myName) {
+    var greeting = "Hi! my name is " + myName;
     return greeting;
 }
 myName = "Gabriel"
